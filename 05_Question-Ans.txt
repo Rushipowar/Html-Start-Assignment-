@@ -1,0 +1,9 @@
+The DOCTYPE Declaration in HTML (Document Type Declaration) is a statement at beinging 
+of an HTML document that specifies the type and version of HTML being used. it help web browser and validators determine
+how to iterpret and render the document.
+
+Example:
+   <!DOCTYPE html>
+
+This declaration tell the browser that thedocument is written in HTML5. Different version of HTML have different
+DOCTYPE declarations, which help endure compatibility and proper rendering of web pages.

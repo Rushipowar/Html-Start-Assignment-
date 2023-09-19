@@ -1,0 +1,15 @@
+1. Tag: 
+    - A tag is piece of code enclosed in angle bracket (<>) that specifies HTML element.
+    - Tags are used to define the structure and presentation of content on web page.
+    - Tags are case-insensitive in HTML, mean you can write them in uppercase or lowercase
+
+Example:
+    <h1>This is Heading</h1>
+
+2. Element:
+    - element consists of an opening tag, content, and a closing tag.
+    - Element can nested within each other to create a hierarchical structure for web page content.
+
+Example:
+    <p>This is a <strong> Bold </strong> text.</P>
+    - In here <p> for paragraph and <strong> for used to make text bold.

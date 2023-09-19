@@ -1,0 +1,14 @@
+Comment:
+   The purpose of comments in HMTL is to add human-readable notes or explanation within HTML 
+   code that are not displayed in web pages visible content.
+   Comments are usefull to documantation, providing context to other developers or temporarily disabling
+   specific code without deleting it.
+
+Example:
+    1 - <!-- This is Comment --> 
+    It is a single-line comment and anything between <!-- ... -->. Via this provide information to developers.
+
+    2. - <!-- ... --> 
+    It si also used for multi-line comments within it. In multi-line add multiple lines to making suitable
+    and more exte4nsive explanation.
+
